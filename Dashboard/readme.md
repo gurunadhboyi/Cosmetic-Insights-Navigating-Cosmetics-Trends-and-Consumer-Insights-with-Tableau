@@ -1,1 +1,1 @@
-THis is the dashboard of our project
+This is the dashboard of our project
