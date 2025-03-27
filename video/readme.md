@@ -1,1 +1,1 @@
-here is the video of our project demonstration.
+here is the video demonstration of our project.
